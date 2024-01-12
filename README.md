@@ -1,3 +1,5 @@
+![Annotation 2024-01-12 223915](https://github.com/DarbanMM/Megycall/assets/118873521/a6a01187-5cd3-40d4-aaa3-eb8e35a0bd1d)
+
 # Megycall
 Code by team Maple  
 Members:
